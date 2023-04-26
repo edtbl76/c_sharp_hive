@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameMaker", "NameMaker.csproj", "{A462A898-0FDE-4FDD-A4D2-FC834B741558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A462A898-0FDE-4FDD-A4D2-FC834B741558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A462A898-0FDE-4FDD-A4D2-FC834B741558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A462A898-0FDE-4FDD-A4D2-FC834B741558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A462A898-0FDE-4FDD-A4D2-FC834B741558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
